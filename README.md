@@ -8,5 +8,5 @@ Off the work, I enjoy creating digital illustrations and various posters using A
 
 
 ## Get in touch 
-* Linkedin : https://bit.ly/3ipVkU9
+* Linkedin : https://www.linkedin.com/in/vasanth-kumar-bhukya-103a311a6/
 * Gmail: bhukyavasanthkumar@gmail.com
