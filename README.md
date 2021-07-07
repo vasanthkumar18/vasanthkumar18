@@ -1,4 +1,4 @@
-### Vasanth Kumar -- @vasanthkumar18
+# Vasanth Kumar -- @vasanthkumar18
 
 I'm Vasanth Kumar, currently pursuing Bachelors in Computer Science at NIT Calicut. I'm seeking to have a growth oriented and challenging career, where I can contribute my knowledge and skills to the organisation and enhance my experience through continuous learning and teamwork.
 
