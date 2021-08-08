@@ -6,7 +6,7 @@ I'm Vasanth Kumar and I live in Khammam, Telangana. Currently pursuing Bachelors
 Previously, I've worked at KYC HUB as an SDE Intern where I was part of FinCAI team. I assisted in various activities to deliver end-to-end projects leading to KYC and AML capabilities. My tasks were based on Extraction, cleaning of datasource and analyzing them using technologies of Java, Selenium, ElasticSearch and Postman API in an Agile methodology. 
 
 Off the work, I enjoy creating digital illustrations and various posters using Adobe softwares such as Illustrator or Photoshop. 
-Always have love for watching cricket and Video games xD. 
+Always have love for cricket and Video games xD. 
 
 
 ## Get in touch 
