@@ -8,7 +8,7 @@ Previously, I've worked at KYC HUB as a SDE Intern where I was part of FinCAI te
 Exploring, learning and investing in Crypto and Stocks. 
 
 Off the work, I enjoy creating digital illustrations and various posters using Adobe softwares such as Illustrator or Photoshop. 
-I Always have love for cricket and Video games. 😼
+I always have love for cricket and Video games. 😼
 
 
 ## Get in touch 🙌
