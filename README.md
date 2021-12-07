@@ -1,7 +1,7 @@
 # Vasanth Kumar -- @vasanthkumar18
 
 Hi there..!! 👋 </br>
-I'm Vasanth Kumar and I live in Khammam, Telangana. Currently pursuing Bachelors in Computer Science 💻 at NIT Calicut. I'm more keen towards backend development that deals with embedded systems, databases and networking. Currently working on a project based on NLP. 
+I'm Vasanth Kumar. Currently pursuing Bachelors in Computer Science 💻 at NIT Calicut. I'm more keen towards backend development that deals with embedded systems, databases and networking. Currently working on a project based on NLP. 
 
 Previously, I've worked at KYC HUB as a SDE Intern where I was part of FinCAI team. I assisted in various activities to deliver end-to-end projects leading to KYC and AML capabilities. My tasks were based on Extraction, cleaning of datasources and analyzing them using technologies such as Java, Selenium, ElasticSearch and Postman API in an Agile methodology. 
 
