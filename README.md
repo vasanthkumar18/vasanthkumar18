@@ -15,7 +15,7 @@ I always have love for cricket and Video games. 😼
 * Linkedin : https://www.linkedin.com/in/vasanth-kumar-bhukya-103a311a6/
 * Gmail: bhukyavasanthkumar@gmail.com
 
-## Here's a random Joke :P
+## Here's a random Joke 😛
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
