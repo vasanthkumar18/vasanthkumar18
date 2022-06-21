@@ -18,6 +18,5 @@ I always have love for cricket and Video games. 😼
 ## Here's a random Joke 😛
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<!---
 ![Profile View Counter](https://komarev.com/ghpvc/?username=vasanthkumar18)
--->
+
