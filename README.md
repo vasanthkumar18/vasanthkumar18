@@ -12,7 +12,7 @@ I always have love for cricket and Video games. 😼
 
 
 ## Get in touch 🙌
-* Linkedin : https://www.linkedin.com/in/vasanth-kumar-bhukya-103a311a6/
+* Linkedin : https://www.linkedin.com/in/vasanth-kumar-103a311a6/
 * Gmail: bhukyavasanthkumar@gmail.com
 
 ## Here's a random Joke 😛
